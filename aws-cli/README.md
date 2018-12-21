@@ -8,3 +8,4 @@
 * S3cmd 2.0.2
 * bash
 * curl
+* less
